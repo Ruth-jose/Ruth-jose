@@ -24,10 +24,6 @@ Analyse des logs sur Linux
 Ubuntu Server
 Supervision en temps reel
 
-# Vie de Priere
-J’ai développé une discipline régulière de prière
-Connaissance Biblique
-Louange et adoration
 
 # Me contacter
 call me www.google.com
